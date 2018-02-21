@@ -1,0 +1,7 @@
+# git ignore file.
+# Directory to ignore.
+
+.idea
+target
+
+*.iml
