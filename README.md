@@ -1,3 +1,3 @@
 Project Thymeleaf with security.
-Framework Spring
-Templates Thymeleaf
+Framework Spring.
+Templates Thymeleaf.
